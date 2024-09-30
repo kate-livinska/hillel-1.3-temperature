@@ -1,5 +1,5 @@
 package manager;
 
 public interface Converter {
-    double convert(double value);
+    double convert(int value);
 }
